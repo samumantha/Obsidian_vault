@@ -11,16 +11,8 @@
             "id": "3a69b2e1f92dbbf1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -29,26 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cb4bfe2b73abdf76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS.md",
-                "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS.md"
+                "file": "README.md"
               }
             }
           }
@@ -175,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb4bfe2b73abdf76",
+  "active": "a2dc30586402285a",
   "lastOpenFiles": [
-    "Reveal.js.md",
     "CSS.md",
-    "Untitled.canvas"
+    "README.md",
+    "Untitled.canvas",
+    "Reveal.js.md"
   ]
 }
