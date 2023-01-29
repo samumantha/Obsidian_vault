@@ -34,9 +34,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "cb4bfe2b73abdf76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,8 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2dc30586402285a",
+  "active": "cb4bfe2b73abdf76",
   "lastOpenFiles": [
+    "Reveal.js.md",
+    "CSS.md",
     "Untitled.canvas"
   ]
 }
