@@ -18,6 +18,8 @@ p {
 
 -> will align all texts which have `id="myid"` in center, id cannot start with a number
 
+> unique, only one element can have same id
+
 ## class selector
 
 ```css
@@ -41,6 +43,9 @@ p , h1 , h2 {
 > Multiple style sheets with same selectors: Value from **last read** stylesheet is used, check in which order the stylesheets are linked/defined in html `<head>` -> inline style > external/internal stylesheet > browser default
 > the more specific a selector, the higher the rank
 > `:root` is pseudo class, targets **everything** within `<html>`
+
+>multiple elements can have same class
+
 
 ## Comments
 
